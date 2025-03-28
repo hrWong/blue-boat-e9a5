@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2024-11-01",
+  "main": "src/index.ts",
+  "name": "blue-boat-e9a5",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "cfc368e7-c77e-4795-badd-36249885639e",
+      "database_name": "broken-dust-798a-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
